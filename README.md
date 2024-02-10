@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Please view my GitHub home page here: [https://samatict.github.io/samatict]([https://www.google.com](https://samatict.github.io/samatict)
+Please view my GitHub home page here: [https://samatict.github.io/samatict](https://samatict.github.io/samatict)
 
 <!--
 **samatict/samatict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
